@@ -33,7 +33,7 @@ export GERRIT_SERVER=http://git.htc.com:8081/
 export GERRIT_ID=your_name  
 export GERRIT_TOKEN=xxxxxxxx
 
-* Cloud services
+* Cloud services  
 export GOOGLE_SHORTURL_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## 4 Task Levels
